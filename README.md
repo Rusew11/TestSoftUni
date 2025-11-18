@@ -2,4 +2,4 @@
 
 This is my testing softuni repository`
 
-im showing how to use github live.
+im testing how to use github.
