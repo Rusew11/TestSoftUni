@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+
+ul {
+    list-style: square;
+}
+
+ol {
+    list-style: lower-greek;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.site-content {
+    width: 400px;
+    margin: auto;
+}
+
+li:hover {
+    visibility: hidden;
+    cursor: pointer;
+}
+
+#best-color {
+    color: aquamarine;
+}
