@@ -1,13 +1,9 @@
-// My new car test git example
-let cat = {
-  name: 'Pavel',
-  age: 8
+function test() {
+  let a = 'Hello world!';
+
+  for (let i = 0; i < a.length; i++) {
+    console.log(i, a[i]);
+  }
 }
 
-// My new dog
-let dog = {
-  name: 'Rex',
-  age: 1
-}
-
-//Looking for update in GitHub
+test();
